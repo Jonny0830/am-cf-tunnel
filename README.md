@@ -11,7 +11,13 @@
 - [Error 1101 和 522 报错解决方案教程](https://youtu.be/4fcyJjstFdg) | [优选IP和优选反代IP视频教程](https://youtu.be/pKrlfRRB0gU) | [解决常见订阅测试-1问题教程](https://youtu.be/kYQxV1G-ePw)
 - [VLESS免费节点部署教程](https://youtu.be/dPH63nITA0M) | [Trojan免费节点部署教程](https://youtu.be/uh27CVVi6HA) | [从入门到精通免费部署教程](https://youtu.be/ag12Rpc9KP4) | [聚合节点订阅教程](https://youtu.be/YBO2hf96150)
 - [GitHub私有库存储优选IP文教程](https://youtu.be/vX3U3FuuTT8) | [CF免费KV存储优选IP文件教程](https://youtu.be/dzxezRV1v-o) [获取免费域名教程](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [获取CF自家域名无限节点](https://youtu.be/novrPiMsK70)
+- [🔥amclubs-cfnat自动优先IP使用视频教程](https://youtu.be/-a6NJ6vPSu4)
 
+### CF端口类型:
+~~~
+HTTP：80，8080，8880，2052，2082，2086，2095
+HTTPS：443，2053，2083，2087，2096，8443
+~~~
 
 ## 一、Workers 部署方法 [视频教程](https://www.youtube.com/watch?v=wgeM9XvZ5RA&t=195s)
 <details>
@@ -133,6 +139,9 @@
      
 - Android（安卓手机）
    - [v2rayNG](https://github.com/2dust/v2rayNG/releases) |  [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [sing-box](https://github.com/SagerNet/sing-box/releases) |  [Clash Nyanpasu](https://github.com/keiko233/clash-nyanpasu/releases) |  [karing](https://karing.app/download) | [Hiddify](https://github.com/hiddify/hiddify-next/releases)
+
+- 软路由
+   - [openclash(clash.meta)](https://github.com/vernesong/OpenClash/releases) 
   
 # 感谢
 [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
